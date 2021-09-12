@@ -3,7 +3,7 @@ DIO-App-GitHub
 
 Projeto de clonagem do GitHub
 Melhorias:
-- Inclui o <Enter> durante a digitação do Repositório
+- Inclui o "Enter" durante a digitação do Repositório
 
 - Corrigi os dados em Repositiers/Index.js.
    
