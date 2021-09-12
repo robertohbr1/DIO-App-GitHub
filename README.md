@@ -22,5 +22,6 @@ De:
 
 - Inclui a Description dos Repositories e Starreds
 
+![Tela.png](https://github.com/robertohbr1/DIO-App-GitHub/blob/master/Tela.png)
 
 Veja mais em README_2.md
